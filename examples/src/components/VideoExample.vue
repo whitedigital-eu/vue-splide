@@ -18,7 +18,7 @@
 </template>
 
 <script lang="ts">
-import { Splide, SplideSlide } from '@splidejs/vue-splide';
+import { Splide, SplideSlide } from 'whitedigital-eu-vue-splide';
 import { Video } from '@splidejs/splide-extension-video';
 import { defineComponent } from 'vue';
 import '@splidejs/splide-extension-video/dist/css/splide-extension-video.min.css';

@@ -29,7 +29,7 @@
 </template>
 
 <script lang="ts">
-import { Splide, SplideSlide, SplideTrack, Options } from '@splidejs/vue-splide';
+import { Splide, SplideSlide, SplideTrack, Options } from 'whitedigital-eu-vue-splide';
 import { defineComponent } from 'vue';
 import { generateSlides } from '../utils';
 

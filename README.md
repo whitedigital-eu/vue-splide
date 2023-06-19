@@ -29,9 +29,14 @@ You have to use the old version (0.3.5) for Vue 2, but the Splide version is als
 
 
 ## Quick Start
-Get the latest version from NPM:
+Get the latest version:
+Using NPM:
 ```
-$ npm install @splidejs/vue-splide
+$ npm install whitedigital-eu-vue-splide
+```
+Using Yarn:
+```
+$ yarn add whitedigital-eu-vue-splide
 ```
 
 Import CSS and components:
@@ -49,9 +54,9 @@ Import CSS and components:
 </template>
 
 <script>
-import { Splide, SplideSlide } from '@splidejs/vue-splide';
+import { Splide, SplideSlide } from 'whitedigital-eu-vue-splide';
 import { defineComponent } from 'vue';
-import '@splidejs/vue-splide/css';
+import 'whitedigital-eu-vue-splide/css';
 
 export default defineComponent( {
   components: { Splide, SplideSlide },

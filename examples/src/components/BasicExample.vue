@@ -22,7 +22,7 @@
 
 <script lang="ts">
 import { Splide as Core } from '@splidejs/splide';
-import { Splide, SplideSlide } from '@splidejs/vue-splide'
+import { Splide, SplideSlide } from 'whitedigital-eu-vue-splide'
 import { defineComponent, ref } from 'vue';
 import { generateSlides } from '../utils';
 

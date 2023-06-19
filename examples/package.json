@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@splidejs/splide-extension-video": "^0.7.1",
-    "@splidejs/vue-splide": "file:..",
+    "whitedigital-eu-vue-splide": "file:..",
     "vue": "^3.2.38"
   },
   "devDependencies": {
