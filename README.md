@@ -6,7 +6,11 @@
       <img width="70" src="images/vue-logo.svg">
   </a>
 
-  <h1>Vue Splide</h1>
+  <h1>This is a fork of Vue Splide!</h1>
+  <h3>
+    <a href="https://www.npmjs.com/package/@splidejs/vue-splid">See the original package here</a>
+  </h3>
+  <p>This fork was created to resolve a typescript type error in the `merge.ts` file, caused by an old typescrtipt version in @splidejs/vue-splide.</p>
 
   <p>
     Vue Splide is the Vue component for the
